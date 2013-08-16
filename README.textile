@@ -29,7 +29,7 @@ h2. HowToUse
 
 <pre>
 
- <param name="mdcKeysToUse" value="UserId,ProjectId,RequestId" />
+ <param name="mdcKeys" value="UserId,ProjectId,RequestId" />
 
 </pre>
 
